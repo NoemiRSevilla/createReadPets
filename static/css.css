@@ -1,0 +1,36 @@
+*{
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.list{
+    width: 800px;
+    color: black;
+    
+}
+
+.big{
+    background-color: silver;
+    border-radius: 5px;
+    border: 10px solid goldenrod;
+    width: 850px;
+}
+
+.form{
+    width: 270px;
+    color: black;
+}
+
+h1{
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+button{
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
